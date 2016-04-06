@@ -1,0 +1,25 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "learning Mocha and Chai",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bmarsha72/testing_testing_123.git"
+  },
+  "keywords": [
+    "mocha",
+    "chai",
+    "testing",
+    "newbie"
+  ],
+  "author": "brian marshall",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bmarsha72/testing_testing_123/issues"
+  },
+  "homepage": "https://github.com/bmarsha72/testing_testing_123#readme"
+}
